@@ -1,0 +1,2 @@
+Enter n divisible by 10: 
+Elapsed time: 0.00001 seconds
